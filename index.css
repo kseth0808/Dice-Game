@@ -1,0 +1,27 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.home{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+.home h1{
+    font-size: 100px;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px;
+}
+.main h2{
+    text-align: center;
+}
+.main .h2{
+    margin-left: 50px;
+}
