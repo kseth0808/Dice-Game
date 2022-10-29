@@ -2,7 +2,7 @@
     padding: 0px;
     margin: 0px;
     box-sizing: border-box;
-    background-color: red ;
+    background-color: rgb(240, 231, 222);
 }
 .home{
     display: flex;
