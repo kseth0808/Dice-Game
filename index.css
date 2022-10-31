@@ -34,10 +34,5 @@ button {
     height: 75px;
     font-size: 2.5rem; 
     border-radius: 10px;
-    border: none;
-    border-radius: 7px;
-    transition: all 0.2s;
-    margin: 1.5rem auto 2rem;
-    border-bottom: 0px solid #eee;
   }
 
